@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Designing UI</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="EmailID">Email</string>
+    <string name="Sign_IN">Sign in</string>
+    <string name="Password">Password</string>
+    <string name="log_in_button">Log In</string>
+</resources>
